@@ -10,6 +10,10 @@ using SQL in Google BigQuery and Tableau.
 - Tableau — data visualization and dashboard
 - Google Sheets — data cleaning and documentation
 
+Data cleaning and validation performed directly in 
+Google Sheets prior to BigQuery upload — 
+cleaning checks documented in original dataset files
+
 ## Data Source
 Telecom Company Churn Rate & Call Center Data by datazng — Kaggle
 kaggle.com/datasets/datazng/telecom-company-churn-rate-call-center-data
