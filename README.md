@@ -105,7 +105,7 @@ and proactively following up with high ticket customers could
 significantly reduce overall churn.
 
 ## Dashboard
-[Click Here To View Tableau Dashboard]https://public.tableau.com/views/TelecomChurnCallCenterAnalysis/TelecomChurnCallCenterAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Click Here To View Tableau Dashboard](https://public.tableau.com/views/TelecomChurnCallCenterAnalysis/TelecomChurnCallCenterAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## SQL Queries
 Full SQL queries available in repository files:
